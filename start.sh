@@ -32,7 +32,7 @@ pip install tgCrypto
 pip install urllib3
 pip install yt-dlp
 
-bash megasdk.sh
-cd /app
+# bash megasdk.sh
+# cd /app
 python3 update.py
 python3 -m bot
