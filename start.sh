@@ -35,4 +35,5 @@ pip install yt-dlp
 # bash megasdk.sh
 # cd /app
 python3 update.py
+qbittorrent-nox -d --profile=. &
 python3 -m bot
