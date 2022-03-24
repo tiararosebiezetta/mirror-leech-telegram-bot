@@ -3,7 +3,7 @@ aria2
 qbittorrent-nox
 tzdata
 p7zip-full
-p7zip-rar
+http://mirrors.kernel.org/ubuntu/pool/multiverse/p/p7zip-rar/p7zip-rar_16.02-3build1_amd64.deb
 xz-utils
 wget
 curl
